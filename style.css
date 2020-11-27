@@ -1,0 +1,9 @@
+body{
+    background: url(night.jpg); 
+    background-size: cover; 
+    padding: 200px 450px;
+    color: white;
+	font-size: 100px; 
+	font-family: arial; 
+
+}
